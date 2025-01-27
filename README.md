@@ -18,7 +18,6 @@ I implemented an intuitive UI and reliable backend, ensuring that every journey 
 
  # Features  
  **User Authentication:** Secure signup and login for travelers and hosts.  
- **Accommodation Listings:** Effortlessly browse, filter, and search for properties by location, price, and amenities.  
  **Details View:** View detailed descriptions, images, and reviews of each listing.  
  **Review System: Travelers:** can leave detailed reviews and ratings for hosts, fostering trust within the community.  
  **Responsive Design:** Fully optimized for desktop and mobile devices to enhance user experience.
@@ -28,14 +27,14 @@ To get a local copy up and running, follow these steps:
 1]Clone the repository:   
  **git clone https://github.com/yourusername/wanderlust.git**
 
-2]Navigate to the project directory:
- cd wanderlust
+2]Navigate to the project directory:  
+cd wanderlust
 
-3] Install dependencies:
+3] Install dependencies:  
 npm install
 
-4]Start the development server:
- node index.js
+4]Start the development server:  
+node index.js
 
 # Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests to help improve Wanderlust.
