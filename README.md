@@ -9,11 +9,12 @@ As a passionate traveler, I wanted to create a platform that helps to find hotel
 I implemented an intuitive UI and reliable backend, ensuring that every journey starts with Wanderlust!  
 
 # Tech Stack
-**HTML||CSS||JAVASCRIPT**
-**MongoDB:** To store user and property data efficiently.
-**Express.js:** A flexible web framework for building the RESTful API.
-**React.js:** For creating dynamic and responsive user interfaces.
-**Node.js:** JavaScript runtime for backend development.  
+**HTML||CSS||JAVASCRIPT**  
+**MongoDB:** To store user and property data efficiently.  
+**Express.js:** A flexible web framework for building the RESTful API.  
+**React.js:** For creating dynamic and responsive user interfaces.  
+**Node.js:** JavaScript runtime for backend development.    
+**other:** This project also have implemented with MVC Freamwork / REST API'S / AJAX /  
 
  # Features
 **User Authentication:** Secure signup and login for travelers and hosts.
