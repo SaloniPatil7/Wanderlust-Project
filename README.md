@@ -1,6 +1,6 @@
  
 **🌍Wanderlust is a web application to list the hotels of different cities globally so that it can easily accessible to
-your vacation place.. Built with the MERN stack, this project focuses on showcasing available listings and user interactions  
+your vacation place.. Built with the MERN stack, this project focuses on showcasing available listings and user interactions
 without the booking functionality.**
 
 
