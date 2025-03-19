@@ -3,6 +3,9 @@
 your vacation place.. Built with the MERN stack, this project focuses on showcasing available listings and user interactions
 without the booking functionality.**
 
+# Deployement
+This Project is deployed on render.  
+Link:**https://wanderlust-project-1-xgvk.onrender.com/listings**
 
 # Why Wanderlust?
 As a passionate traveler, I wanted to create a platform that helps to find hotels like homes with unique experiences. Using the MERN stack,  
